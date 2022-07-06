@@ -1,4 +1,7 @@
-### Hi there 👋
+### Привет, меня зовут Анна, я Fullstack разработчик
+
+Люблю математику, задачки на логику
+
 
 <!--
 **AnnaMadyakina/AnnaMadyakina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
